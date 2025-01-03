@@ -5,7 +5,7 @@
 
 
 
-#😻 Pokedex Guide Repository 🌟
+# 😻 Pokedex Guide Repository 🌟
 
 Welcome to the Pokedex Guide repository! This project is a sleek and interactive web application designed for Pokémon enthusiasts. 
 It serves as a comprehensive guide to Pokémon, displaying essential information in a visually appealing and user-friendly interface.
@@ -23,10 +23,10 @@ It serves as a comprehensive guide to Pokémon, displaying essential information
 
 # How It Works 🚀
 
-HTML Structure: The main layout is structured using semantic HTML5 tags for clarity and accessibility.
-CSS Styling: The style.css file adds a polished look to the application.
-Interactive Features: A search bar and buttons, powered by JavaScript, provide interactivity for the users.
-Dynamic Content: Pokémon data, including images and stats, are dynamically loaded into the application for a seamless experience.
+- HTML Structure: The main layout is structured using semantic HTML5 tags for clarity and accessibility.
+- CSS Styling: The style.css file adds a polished look to the application.
+- Interactive Features: A search bar and buttons, powered by JavaScript, provide interactivity for the users.
+- Dynamic Content: Pokémon data, including images and stats, are dynamically loaded into the application for a seamless experience.
 
 # Technologies Used 🖥️
 
@@ -35,6 +35,13 @@ Dynamic Content: Pokémon data, including images and stats, are dynamically load
 - JavaScript: For dynamic functionality and DOM manipulation.
 - Font Awesome: To enhance the UI with intuitive icons.
 
-# Preview
+# 📸 Preview 🎞️🎬
 
 ![Pokedex Guide](https://github.com/user-attachments/assets/d15f766b-bb23-41c9-8ced-7d76e034e712)
+
+# 🤝 Contributing
+Contributions are welcome! If you find any bugs or have suggestions, feel free to open an issue or submit a pull request.
+
+ # 📧 Contact
+
+- semra.gunaydinwork@outlook.com
