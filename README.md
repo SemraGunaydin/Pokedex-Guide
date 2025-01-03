@@ -40,7 +40,9 @@ It serves as a comprehensive guide to Pokémon, displaying essential information
 ![Pokedex Guide](https://github.com/user-attachments/assets/d15f766b-bb23-41c9-8ced-7d76e034e712)
 
 # 🤝 Contributing
-Contributions are welcome! If you find any bugs or have suggestions, feel free to open an issue or submit a pull request.
+Feel free to explore, contribute, and share your feedback! Happy coding and enjoy catching them all! 🎉
+
+
 
  # 📧 Contact
 
