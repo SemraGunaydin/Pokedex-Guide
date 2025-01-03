@@ -5,7 +5,7 @@
 
 
 
-# 😻 Pokedex Guide Repository 🌟
+# 😻 Pokedex Guide 🌟
 
 Welcome to the Pokedex Guide repository! This project is a sleek and interactive web application designed for Pokémon enthusiasts. 
 It serves as a comprehensive guide to Pokémon, displaying essential information in a visually appealing and user-friendly interface.
@@ -42,8 +42,5 @@ It serves as a comprehensive guide to Pokémon, displaying essential information
 # 🤝 Contributing
 Feel free to explore, contribute, and share your feedback! Happy coding and enjoy catching them all! 🎉
 
-
-
  # 📧 Contact
-
 - semra.gunaydinwork@outlook.com
